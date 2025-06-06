@@ -20,11 +20,11 @@ Simulare e quantificare le conseguenze sociali, economiche e territoriali nel ca
 - Canva
 - Excel
 ## Struttura del progetto
-- `GIORNOZERO_PWBI/` → dashboard Power BI
-- `FROM STRIKES TO CHAOS.docx` → relazione completa
-- `*.py` → codice Python
-- `*.csv` → dati puliti e simulati
-- `*.pdf` → presentazione grafica finale
+- `GIORNOZERO_PWBI/` → Tablero Power BI  
+- `FROM STRIKES TO CHAOS.docx` → Informe completo  
+- `# GIORNO ZERO – ANALISI DATI ATM.py` → Código Python  
+- `*.csv / *.xlsx` → Datos limpios y simulados  
+- `CANVA – ANÁLISIS.pdf` → Presentación gráfica final 
 
 Merian Dalila Eche Rubio  
 Data Analyst – EPICODE  
